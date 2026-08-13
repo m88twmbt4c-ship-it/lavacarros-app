@@ -60,7 +60,7 @@ export default function Home() {
   }
 
   return (
-    <main style={{ maxWidth: 480, margin: '0 auto' }}><img src="/logo.png" alt="Lavia" style={{ height: '70px', display: 'block', margin: '0 auto 20px' }} />
+    <main style={{ maxWidth: 480, margin: '0 auto' }}><img src="/logo.png?v=2" alt="Lavia" style={{ height: '70px', display: 'block', margin: '0 auto 20px' }} />
       <h1 style={{ fontSize: 20 }}>¿Dónde está tu carro?</h1>
       <div style={{ display: 'flex', gap: 8, marginBottom: 16 }}>
         <input
